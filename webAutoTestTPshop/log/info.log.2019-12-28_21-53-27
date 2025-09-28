@@ -1,0 +1,21 @@
+2019-12-28 21:53:27,086 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/refresh HTTP/1.1" 200 14
+2019-12-28 21:53:27,091 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:27,092 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - GET http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/window/handles {}
+2019-12-28 21:53:27,096 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "GET /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/window/handles HTTP/1.1" 200 37
+2019-12-28 21:53:27,097 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:27,098 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/window {"handle": "6442450958"}
+2019-12-28 21:53:27,102 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/window HTTP/1.1" 200 14
+2019-12-28 21:53:27,103 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:27,103 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element {"using": "link text", "value": "\u5f85\u4ed8\u6b3e"}
+2019-12-28 21:53:28,935 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element HTTP/1.1" 200 88
+2019-12-28 21:53:28,937 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:28,937 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/040c1b46-d11e-4111-b35a-53ae15b76ea3/click {"id": "040c1b46-d11e-4111-b35a-53ae15b76ea3"}
+2019-12-28 21:53:31,151 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/040c1b46-d11e-4111-b35a-53ae15b76ea3/click HTTP/1.1" 200 14
+2019-12-28 21:53:31,152 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:31,152 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/elements {"using": "link text", "value": "\u7acb\u5373\u652f\u4ed8"}
+2019-12-28 21:53:31,579 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/elements HTTP/1.1" 200 406
+2019-12-28 21:53:31,579 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:31,580 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/f3e6371d-3ba5-4598-9558-ad6e87442f2a/click {"id": "f3e6371d-3ba5-4598-9558-ad6e87442f2a"}
+2019-12-28 21:53:31,597 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/f3e6371d-3ba5-4598-9558-ad6e87442f2a/click HTTP/1.1" 200 14
+2019-12-28 21:53:31,598 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:31,598 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/refresh {}

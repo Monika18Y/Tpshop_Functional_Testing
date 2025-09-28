@@ -1,0 +1,20 @@
+2019-12-28 21:53:40,861 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/url HTTP/1.1" 200 14
+2019-12-28 21:53:40,869 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:40,869 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element {"using": "css selector", "value": ".share-shopcar-index"}
+2019-12-28 21:53:40,876 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element HTTP/1.1" 200 88
+2019-12-28 21:53:40,877 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:40,877 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/0f10e576-46ce-40c5-a8e1-d8ae2022a2be/click {"id": "0f10e576-46ce-40c5-a8e1-d8ae2022a2be"}
+2019-12-28 21:53:43,087 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/0f10e576-46ce-40c5-a8e1-d8ae2022a2be/click HTTP/1.1" 200 14
+2019-12-28 21:53:43,088 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:43,088 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element {"using": "css selector", "value": ".checkCartAll"}
+2019-12-28 21:53:43,101 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element HTTP/1.1" 200 88
+2019-12-28 21:53:43,101 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:43,102 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - GET http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/40d16f34-a75b-4fa2-8c97-55cd125c32c0/selected {"id": "40d16f34-a75b-4fa2-8c97-55cd125c32c0"}
+2019-12-28 21:53:43,109 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "GET /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/40d16f34-a75b-4fa2-8c97-55cd125c32c0/selected HTTP/1.1" 200 14
+2019-12-28 21:53:43,110 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:43,110 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element {"using": "css selector", "value": ".gwc-qjs"}
+2019-12-28 21:53:43,116 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element HTTP/1.1" 200 88
+2019-12-28 21:53:43,117 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:43,117 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/39e57e93-d513-48fc-bdfa-3ac6d8fb6d04/click {"id": "39e57e93-d513-48fc-bdfa-3ac6d8fb6d04"}
+2019-12-28 21:53:44,930 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/39e57e93-d513-48fc-bdfa-3ac6d8fb6d04/click HTTP/1.1" 200 14
+2019-12-28 21:53:44,931 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request

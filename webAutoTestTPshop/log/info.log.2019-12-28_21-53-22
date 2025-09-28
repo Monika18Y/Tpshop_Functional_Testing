@@ -1,0 +1,16 @@
+2019-12-28 21:53:22,504 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element HTTP/1.1" 200 88
+2019-12-28 21:53:22,512 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:22,513 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - GET http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/a5cd6b8b-eaaf-4d8f-b757-481f007be14f/text {"id": "a5cd6b8b-eaaf-4d8f-b757-481f007be14f"}
+2019-12-28 21:53:22,539 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "GET /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/a5cd6b8b-eaaf-4d8f-b757-481f007be14f/text HTTP/1.1" 200 24
+2019-12-28 21:53:22,540 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:22,540 INFO [root] [tpshop_cart.py(test_cart:40)] - Ìí¼Ó³É¹¦
+2019-12-28 21:53:22,541 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/url {"url": "http://127.0.0.1"}
+2019-12-28 21:53:24,915 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/url HTTP/1.1" 200 14
+2019-12-28 21:53:24,916 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:24,916 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element {"using": "link text", "value": "\u6211\u7684\u8ba2\u5355"}
+2019-12-28 21:53:24,949 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element HTTP/1.1" 200 88
+2019-12-28 21:53:24,949 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:24,950 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/5cc35bd9-ad7c-460d-bdb4-43cfeebfed49/click {"id": "5cc35bd9-ad7c-460d-bdb4-43cfeebfed49"}
+2019-12-28 21:53:24,977 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/5cc35bd9-ad7c-460d-bdb4-43cfeebfed49/click HTTP/1.1" 200 14
+2019-12-28 21:53:24,978 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:24,978 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/refresh {}

@@ -1,0 +1,9 @@
+2019-12-28 21:53:48,940 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element {"using": "css selector", "value": ".Sub-orders"}
+2019-12-28 21:53:48,955 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element HTTP/1.1" 200 88
+2019-12-28 21:53:48,956 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:48,957 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/9b9f6824-2f7f-425b-a68f-c41a57959ae6/click {"id": "9b9f6824-2f7f-425b-a68f-c41a57959ae6"}
+2019-12-28 21:53:49,726 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element/9b9f6824-2f7f-425b-a68f-c41a57959ae6/click HTTP/1.1" 200 14
+2019-12-28 21:53:49,726 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
+2019-12-28 21:53:49,727 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:388)] - POST http://127.0.0.1:55502/session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element {"using": "xpath", "value": "// *[contains(text(), '\u8ba2\u5355\u63d0\u4ea4\u6210\u529f')]"}
+2019-12-28 21:53:49,735 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://127.0.0.1:55502 "POST /session/bb90d44e-1a3a-437f-ad30-2b216c7e9c95/element HTTP/1.1" 200 88
+2019-12-28 21:53:49,736 DEBUG [selenium.webdriver.remote.remote_connection] [remote_connection.py(_request:440)] - Finished Request
